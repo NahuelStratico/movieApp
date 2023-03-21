@@ -24,6 +24,9 @@ _Una vez tengas instalado Android Studio, seguir los pasos de la web de React Na
 npx react-native run-android
 ```
 
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/49825382/226664740-c74d6fed-b822-4500-a9d9-caac7772389a.png">
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/49825382/226664914-aa62621b-e7be-4ca1-8fad-e027e782bdf9.png">
 
 ## Construido con 🛠️
 
